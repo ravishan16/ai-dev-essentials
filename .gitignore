@@ -1,0 +1,25 @@
+# VS Code
+.vscode/**
+.vscode-test/**
+
+# Build outputs
+*.vsix
+out/
+dist/
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# OS specific files
+.DS_Store
+Thumbs.db
