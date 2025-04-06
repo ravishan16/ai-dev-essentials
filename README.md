@@ -54,7 +54,7 @@ This extension pack includes carefully selected tools for:
 - AWS Toolkit
 - Google Cloud Code
 - GitHub Pull Requests & Issues
-- GitHub Actions
+- GitHub Actions - GitHub Actions workflow support
 - GitLens - Git supercharged
 - Kubernetes Tools
 - Redis
