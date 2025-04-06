@@ -4,6 +4,22 @@ All notable changes to the AI Dev Essentials extension pack will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2025-04-06
+
+### Added
+- Comprehensive development documentation (DEVELOPMENT.md)
+- Detailed project structure documentation
+- Enhanced testing and publishing guidelines
+
+### Removed
+- TODO Tree extension
+- Extension categories reorganized for better clarity
+
+### Changed
+- Updated README.md with cleaner categorization
+- Optimized extension icon size
+- Enhanced documentation structure
+
 ## [1.0.0] - 2025-04-06
 
 ### Added
