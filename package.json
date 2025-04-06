@@ -58,7 +58,8 @@
     "devDependencies": {
         "@vscode/test-electron": "^2.3.9",
         "@vscode/vsce": "^2.24.0",
-        "mocha": "^10.3.0"
+        "mocha": "^10.3.0",
+        "glob": "^10.3.10"
     },
     "extensionPack": [
         "github.copilot",
@@ -109,6 +110,5 @@
         "redhat.vscode-yaml",
         "ms-kubernetes-tools.vscode-kubernetes-tools"
     ],
-    "main": "index.js",
     "license": "MIT"
 }
